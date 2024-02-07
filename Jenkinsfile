@@ -7,7 +7,7 @@ def COLOR_MAP = [
 
 tools{
         jdk 'jdk17'
-        nodejs 'node16'
+        nodejs 'nodeJs'
     }
     environment {
         SCANNER_HOME=tool 'sonar-scanner'
